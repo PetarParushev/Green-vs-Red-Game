@@ -1,0 +1,13 @@
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\bin\Debug\netcoreapp3.1\Green-vs-Red-Game.exe
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\bin\Debug\netcoreapp3.1\Green-vs-Red-Game.deps.json
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\bin\Debug\netcoreapp3.1\Green-vs-Red-Game.runtimeconfig.json
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\bin\Debug\netcoreapp3.1\Green-vs-Red-Game.runtimeconfig.dev.json
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\bin\Debug\netcoreapp3.1\Green-vs-Red-Game.dll
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\bin\Debug\netcoreapp3.1\Green-vs-Red-Game.pdb
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\obj\Debug\netcoreapp3.1\Green-vs-Red-Game.csprojAssemblyReference.cache
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\obj\Debug\netcoreapp3.1\Green-vs-Red-Game.csproj.CoreCompileInputs.cache
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\obj\Debug\netcoreapp3.1\Green-vs-Red-Game.AssemblyInfoInputs.cache
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\obj\Debug\netcoreapp3.1\Green-vs-Red-Game.AssemblyInfo.cs
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\obj\Debug\netcoreapp3.1\Green-vs-Red-Game.dll
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\obj\Debug\netcoreapp3.1\Green-vs-Red-Game.pdb
+D:\repos\Green-vs-Red-Game\Green-vs-Red-Game\obj\Debug\netcoreapp3.1\Green-vs-Red-Game.genruntimeconfig.cache
